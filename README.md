@@ -16,3 +16,8 @@
 ![thinkyfy](https://github.com/user-attachments/assets/191aec39-dbcf-4ff1-89ef-038ca9d45c9f)
 ![2048](https://github.com/user-attachments/assets/0a130373-c397-4bd8-9850-7a81939d2d2f)
 <img width="1680" height="1050" alt="anonymousdev" src="https://github.com/user-attachments/assets/9b32a336-311e-4ba0-8faa-552959fada54" />
+<img width="1460" height="823" alt="hackathon" src="https://github.com/user-attachments/assets/c142f937-ae4c-442a-8ff9-30c412b14cd8" />
+<img width="1450" height="814" alt="artifx" src="https://github.com/user-attachments/assets/6ec3d875-a52a-4952-8938-132421f65299" />
+<img width="1468" height="824" alt="tripwhiz" src="https://github.com/user-attachments/assets/09cc6f58-8cc7-490a-9246-06c1ad5e3925" />
+<img width="1469" height="826" alt="blogpage" src="https://github.com/user-attachments/assets/6f5f5ce2-8424-4ba0-be82-6b44823ad6fc" />
+<img width="1467" height="826" alt="2048" src="https://github.com/user-attachments/assets/54b33b2d-246b-4b2b-836d-42e19f9c6377" />
