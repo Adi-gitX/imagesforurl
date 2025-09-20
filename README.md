@@ -10,3 +10,9 @@
 ![Untitled design (50)](https://github.com/user-attachments/assets/cf0f707e-5f05-49fe-b158-f3c0cec94514)
 ![Untitled design (51)](https://github.com/user-attachments/assets/fdf3927b-d5ee-42f8-ab5c-a2323921e78a)
 ![Untitled design (52)](https://github.com/user-attachments/assets/68a58266-efd2-4cb8-9a96-10ec0eec286e)
+![blogpage](https://github.com/user-attachments/assets/9a04c47d-214b-4574-934b-daa2c8b58960)
+![tripwhiz](https://github.com/user-attachments/assets/c2356b53-de31-47ef-bcbe-6a994e7e0210)
+![ARTIFY](https://github.com/user-attachments/assets/7d83bc8a-c93d-4864-bdf2-2feabde82e77)
+![thinkyfy](https://github.com/user-attachments/assets/191aec39-dbcf-4ff1-89ef-038ca9d45c9f)
+![2048](https://github.com/user-attachments/assets/0a130373-c397-4bd8-9850-7a81939d2d2f)
+<img width="1680" height="1050" alt="anonymousdev" src="https://github.com/user-attachments/assets/9b32a336-311e-4ba0-8faa-552959fada54" />
