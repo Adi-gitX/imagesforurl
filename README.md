@@ -1,4 +1,5 @@
 # imagesforurl
+
 <img width="1680" height="934" alt="Screenshot 2025-10-25 at 8 36 50 PM" src="https://github.com/user-attachments/assets/715e9cbb-3479-4b06-b3fe-a8e42178d789" />
 
 
@@ -25,3 +26,4 @@
 <img width="1468" height="824" alt="tripwhiz" src="https://github.com/user-attachments/assets/09cc6f58-8cc7-490a-9246-06c1ad5e3925" />
 <img width="1469" height="826" alt="blogpage" src="https://github.com/user-attachments/assets/6f5f5ce2-8424-4ba0-be82-6b44823ad6fc" />
 <img width="1467" height="826" alt="2048" src="https://github.com/user-attachments/assets/54b33b2d-246b-4b2b-836d-42e19f9c6377" />
+<img width="1466" height="772" alt="Screenshot 2025-10-25 at 11 39 51 PM" src="https://github.com/user-attachments/assets/355e2b86-9470-4eea-93f5-f9e6ce103431" />
